@@ -34,7 +34,7 @@ dependencies = [
     'matplotlib >= 3.7.1, <4',
     'nbconvert > 6, <7',
     'nbformat >= 5.8.0, <6',
-    'numpy >=1.19.0, <1.25',
+    'numpy >=1.19.0, <1.26.4',
     'orjson >=3.0.0, < 4',
     'paradigm-data-portal >= 0.2.2, <0.3',
     'polars >= 0.17',
